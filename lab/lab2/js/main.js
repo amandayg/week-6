@@ -122,12 +122,17 @@ the week was the most common for garbage removal? Update the original state
 of the application to report this information.
 
 ===================== */
-
-var dataset = "https://raw.githubusercontent.com/CPLN692-MUSA611/datasets/master/geojson/philadelphia-garbage-collection-boundaries.geojson"
+var dataset = "https://raw.githubusercontent.com/CPLN692-MUSA611/datasets/master/geojson/philadelphia-garbage-collection-boundaries.geojson";
 var featureGroup;
 
 var myStyle = function(feature) {
-  return {};
+    switch (feature.properties.COLLDAY) {
+    case 'MON': return {fillColor: "#42f45f"};
+    case 'TUE':   return {fillColor: "#42eef4"};
+    case 'WED': return {fillColor: "#4280f4"};
+    case 'THU':   return {fillColor: "#6542f4"};
+    case 'FRI': return {fillColor: "#f44280"};
+}
 };
 
 var showResults = function() {
@@ -151,13 +156,29 @@ var eachFeatureFunction = function(layer) {
     Check out layer.feature to see some useful data about the layer that
     you can use in your application.
     ===================== */
+    switch (layer.feature.properties.COLLDAY) {
+    case 'MON': $(".day-of-week").text("Monday");
+    break;
+    case 'TUE': $(".day-of-week").text("Tuesday");
+    break;
+    case 'WED': $(".day-of-week").text("Wednesday");
+    break;
+    case 'THU': $(".day-of-week").text("Thursday");
+    break;
+    case 'FRI': $(".day-of-week").text("Friday");
+  }
+});
     console.log(layer.feature);
     showResults();
-  });
 };
 
 var myFilter = function(feature) {
+  if(feature.properties.COLLDAY.length >1){
   return true;
+}
+  else{
+    return false;
+  }
 };
 
 $(document).ready(function() {

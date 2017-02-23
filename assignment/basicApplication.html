@@ -1,16 +1,46 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
 
     <!-- Start HTML -->
-
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div id="intro">
+        <h1>Selected Work of Frank Lloyd Wright</h1>
+        <p class="main">This is a map of slected work designed by famous
+        architect Frank Lloyd Wright. All within the United States.</p>
+        <p></p>
+      </div>
+      <div id="results" style="display: none;">
+        <h1 class="day-of-week">Name</h1>
+        <p class="main">This is <span class="day-of-week">
+        Name</span>.</p>
+        <p>Built in year 1900.Located in.Style.<span class="day-of-week">
+        </span>. </p>
+      </div>
+    </div>
+    <!-- Map -->
+    <div id="map" class="map"></div>
+    <!-- Legend -->
+    <div class="legend">
+      <h3></h3>
+    </div>
     <!-- End HTML -->
 
     <!-- Start Javascript Imports -->
-    <script src="basicApplication.js"></script>
+    <script src="js/jquery-2.2.0.js"></script>
+    <script src="js/underscore.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/basicApplication.js"></script>
+    <script src="js/slideModel.js"></script>
+    <script src="js/midtermFunctions.js"></script>
     <!-- End Javascript Imports -->
+
 
   </body>
 </html>

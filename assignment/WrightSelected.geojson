@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.028875,43.0989028 ]
+    },
+    "properties": {
+    "Name":"Annunciation Greek Orthodox Church",
+    "Location":"Wauwatosa, Wisconsin",
+    "State":"Wisconsin",
+    "Style":"Unknown",
+    "Built Year":1959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12667,40.08222 ]
+    },
+    "properties": {
+    "Name":"Beth Sholom Congregation",
+    "Location":"Elkins Park, Pennsylvania",
+    "State":"Pennsylvania",
+    "Style":"Modern",
+    "Built Year":1954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.94833,28.03056 ]
+    },
+    "properties": {
+    "Name":"Child of the Sun",
+    "Location":"Lakeland, Florida",
+    "State":"Florida",
+    "Style":"Unknown",
+    "Built Year":1958
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.65139,39.794333 ]
+    },
+    "properties": {
+    "Name":"Dana�Thomas House",
+    "Location":"Springfield, Illinois",
+    "State":"Illinois",
+    "Style":"Other",
+    "Built Year":1902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8481306,42.9361611 ]
+    },
+    "properties": {
+    "Name":"Darwin D. Martin House",
+    "Location":"Buffalo, New York",
+    "State":"New York",
+    "Style":"Prairie School",
+    "Built Year":1905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.192194,43.152361 ]
+    },
+    "properties": {
+    "Name":"Dr. G.C. Stockman House",
+    "Location":"Mason City, Iowa",
+    "State":"Iowa",
+    "Style":"Prairie School",
+    "Built Year":1908
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.569275,43.146575 ]
+    },
+    "properties": {
+    "Name":"Edward E. Boynton House",
+    "Location":"Rochester, New York",
+    "State":"New York",
+    "Style":"Prairie School",
+    "Built Year":1908
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2929,34.1162222 ]
+    },
+    "properties": {
+    "Name":"Ennis House",
+    "Location":"Los Angeles, California",
+    "State":"California",
+    "Style":"Mayan Revival",
+    "Built Year":1924
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.46806,39.90611 ]
+    },
+    "properties": {
+    "Name":"Fallingwater",
+    "Location":"Mill Run, Pennsylvania",
+    "State":"Pennsylvania",
+    "Style":"Modern",
+    "Built Year":1939
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4351806,43.075889 ]
+    },
+    "properties": {
+    "Name":"First Unitarian Society of Madison",
+    "Location":"Shorewood Hills, Wisconsin",
+    "State":"Wisconsin",
+    "Style":"Modern Movement",
+    "Built Year":1951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7997806,41.8941278 ]
+    },
+    "properties": {
+    "Name":"Frank Lloyd Wright Home and Studio",
+    "Location":"Oak Park, Illinois",
+    "State":"Illinois",
+    "Style":"Shingle Style",
+    "Built Year":1889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8,41.89056 ]
+    },
+    "properties": {
+    "Name":"Frank Thomas House",
+    "Location":"Oak Park, Illinois",
+    "State":"Illinois",
+    "Style":"Prairie style",
+    "Built Year":1901
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9380778,33.4162972 ]
+    },
+    "properties": {
+    "Name":"Gammage Auditorium",
+    "Location":"Tempe, Arizona",
+    "State":"Arizona",
+    "Style":"Usonian",
+    "Built Year":1964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9729028,42.7133833 ]
+    },
+    "properties": {
+    "Name":"Graycliff",
+    "Location":"Derby, New York",
+    "State":"New York",
+    "Style":"Prairie School",
+    "Built Year":1926
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.44139,43.05861 ]
+    },
+    "properties": {
+    "Name":"Herbert and Katherine Jacobs First House",
+    "Location":"Madison, Wisconsin",
+    "State":"Wisconsin",
+    "Style":"Modern Movement",
+    "Built Year":1937
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7707611,42.7803778 ]
+    },
+    "properties": {
+    "Name":"Herbert F. Johnson Residence (\"Wingspread\")",
+    "Location":"Wind Point, Wisconsin",
+    "State":"Wisconsin",
+    "Style":"Prairie School",
+    "Built Year":1937
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2946139,34.0999583 ]
+    },
+    "properties": {
+    "Name":"Hollyhock House",
+    "Location":"Los Angeles, California",
+    "State":"California",
+    "Style":"Mayan Revival�",
+    "Built Year":1922
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.79083,42.71361 ]
+    },
+    "properties": {
+    "Name":"Johnson Wax Headquarters",
+    "Location":"Racine, Wisconsin",
+    "State":"Wisconsin",
+    "Style":"Other",
+    "Built Year":1936
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.02444,42.29972 ]
+    },
+    "properties": {
+    "Name":"Kenneth Laurent House",
+    "Location":"Rockford, Illinois",
+    "State":"Illinois",
+    "Style":"Usonian",
+    "Built Year":1951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.51972,39.86917 ]
+    },
+    "properties": {
+    "Name":"Kentuck Knob",
+    "Location":"Ohiopyle, Pennsylvania",
+    "State":"Pennsylvania",
+    "Style":"Usonian",
+    "Built Year":1956
+    }
+  }
+]
+}

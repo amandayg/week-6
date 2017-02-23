@@ -28,7 +28,30 @@ p.main {
 }
 
 .legend {
+  right:100px;
+  bottom:50px;
+  padding:20px;
   position: absolute;
   background-color: #fff;
   z-index: 2000;
+
+}
+
+td{
+  min-width: 30px;
+}
+#MON{
+  background-color: #42f45f;
+}
+#TUE{
+  background-color:#42eef4;
+}
+#WED{
+  background-color:#4280f4;
+}
+#THU{
+  background-color:#6542f4;
+}
+#FRI{
+  background-color:#f44280;
 }
